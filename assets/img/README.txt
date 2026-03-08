@@ -1,0 +1,1 @@
+Placeholder for images. Add texture-paper.png and other images here.
